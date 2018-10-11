@@ -1,0 +1,9 @@
+.table-overflow {
+    overflow: auto;
+    clear: both;
+    margin: 10px 0;
+}
+
+.table thead th {
+    vertical-align: top;
+}
